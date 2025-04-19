@@ -1,4 +1,4 @@
-# 🚀 Quiz App
+# 🚀 Internet Technology Quiz
 
 <div align="center">
 
@@ -9,13 +9,14 @@
 ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG_2.1-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
+
 </div>
 
 A modern, interactive Internet Technology quiz application with a beautiful neomorphic UI design. Features multiple question types, theme switching, detailed review section, and a sleek animation system. Built with pure frontend technologies for outstanding performance.
 
 
 
-## ✨ Features
+## ✨ Key Features
 
 <div align="center">
 <table>
@@ -50,6 +51,7 @@ A modern, interactive Internet Technology quiz application with a beautiful neom
 </table>
 </div>
 
+
 ## 📱 Responsive Design
 
 The application is fully responsive and works beautifully on all devices:
@@ -57,6 +59,16 @@ The application is fully responsive and works beautifully on all devices:
 - **Desktop**: Full-featured experience with optimized layouts
 - **Tablet**: Adjusted UI for comfortable touch interaction
 - **Mobile**: Streamlined interface for on-the-go learning
+
+## 🎮 Quiz Features
+
+- **20 Internet Technology Questions**: Covering HTTP, DNS, networking, web development and more
+- **Multiple Question Types**: MCQ, True/False, and Text Input questions
+- **15-Minute Timer**: Challenge yourself to complete all questions in time
+- **Score Tracking**: See how well you performed
+- **Detailed Review**: Compare your answers with correct ones, with explanations
+- **Navigation**: Go back to previous questions to change answers
+- **Visual Feedback**: Clear color-coding (green for correct, red for incorrect)
 
 ## 🎨 UI/UX Highlights
 
@@ -74,14 +86,6 @@ The application is fully responsive and works beautifully on all devices:
 - Smooth transitions between quiz states
 - Micro-interactions for enhanced feedback
 - Performance-optimized animations using CSS techniques
-
-## 🧠 Question Types
-
-This quiz app supports multiple question formats:
-
-- **Multiple Choice Questions (MCQ)**: Select one correct answer from options
-- **True/False Questions**: Determine if a statement is correct or incorrect
-- **Text Input Questions**: Type in your answer with intelligent matching
 
 ## 💻 Technical Implementation
 
@@ -151,37 +155,28 @@ function showReviewScreen() {
 
 ```bash
 # Clone the repository
-git clone https://github.com/Antonymaged/quizz_app.git
+git clone https://github.com/HosamDyab/Quiz-App.git
 
 # Navigate to the project
-cd quizz-app
+cd Quiz-App
 
-# Open in your browser
-# No build tools required!
-open index.html   # macOS
-xdg-open index.html   # Linux
-start index.html   # Windows
+# No build tools or dependencies required!
+# Simply open index.html in your browser
 ```
+
+### Running Locally
+1. Double-click on `index.html` or open it with your browser
+2. No server needed - works directly from the filesystem
+3. No external dependencies - everything included!
 
 ## 📁 Project Structure
 
 ```
-quiz-app/
-├── 📂 assets/            # Images and icons
-├── 📂 styles/            # CSS stylesheets
-│   ├── main.css          # Common styles
-│   ├── auth.css          # Authentication styles
-│   ├── home.css          # Dashboard styles
-│   └── quiz.css          # Quiz interface styles
-├── 📂 scripts/           # JavaScript files
-│   ├── auth.js           # Authentication logic
-│   ├── navigation.js     # Screen navigation
-│   ├── quiz.js           # Quiz functionality
-│   └── results.js        # Results processing
-├── 📄 index.html         # Entry point with authentication
-├── 📄 home.html          # Dashboard with exam selection
-├── 📄 quiz.html          # Quiz interface
-└── 📄 README.md          # Project documentation
+Quiz-App/
+├── index.html          # Main entry point
+├── script.js           # Quiz application logic
+├── styles.css          # Styling and animations
+├── README.md           # Documentation
 ```
 
 ## 🧪 Browser Compatibility
@@ -225,7 +220,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-Made by ❤️ 
+Made with ❤️ by <a href="https://github.com/HosamDyab">Hosam Dyab</a>
 <br><br>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub"></a>
+<a href="https://github.com/HosamDyab"><img src="https://img.shields.io/github/followers/HosamDyab?label=Follow&style=social" alt="GitHub"></a>
 </div>
