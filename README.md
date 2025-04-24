@@ -15,6 +15,11 @@
 A modern, interactive Internet Technology quiz application with a beautiful neomorphic UI design. Features multiple question types, theme switching, detailed review section, and a sleek animation system. Built with pure frontend technologies for outstanding performance.
 
 
+https://github.com/user-attachments/assets/cfa7a7f2-cef3-4a6c-83ae-76631d30328b
+
+
+
+
 
 ## ✨ Key Features
 
